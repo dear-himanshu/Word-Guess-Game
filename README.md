@@ -1,3 +1,3 @@
 # Word-Guess-Game
 
-[Live link 👉 ](https://wordguesskaro.netlify.app/)
+[Live link](https://guesswordkaro.netlify.app/)
